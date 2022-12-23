@@ -41,7 +41,7 @@ function App() {
     <BrowserRouter>
       <Header isAuthenticated={true}/>
       <Routes>
-        <Route path="/Foodies" element={<Home/>}/>
+        <Route path="/" element={<Home/>}/>
         <Route path="/contact" element={<Contact/>}/>
         <Route path="/cart" element={<Cart/>}/>
         <Route path="/shipping" element={<Shipping/>}/>
