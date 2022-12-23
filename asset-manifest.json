@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Foodies/static/css/main.7547f575.css",
+    "main.js": "/Foodies/static/js/main.b4af67fd.js",
+    "static/media/bg.png": "/Foodies/static/media/bg.c5952fa85ef9e1aa016b.png",
+    "static/media/contact.png": "/Foodies/static/media/contact.f5c4a3a997773776fa70.png",
+    "static/media/founder.jpg": "/Foodies/static/media/founder.69a14ff4d48ed07e3925.jpg",
+    "static/media/pasta.png": "/Foodies/static/media/pasta.eea975ef77a0ddc9e89b.png",
+    "static/media/dhosa.png": "/Foodies/static/media/dhosa.195e82a2659834d5f454.png",
+    "static/media/pizza.png": "/Foodies/static/media/pizza.dc186e6655f2a74444dd.png",
+    "index.html": "/Foodies/index.html",
+    "main.7547f575.css.map": "/Foodies/static/css/main.7547f575.css.map",
+    "main.b4af67fd.js.map": "/Foodies/static/js/main.b4af67fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7547f575.css",
+    "static/js/main.b4af67fd.js"
+  ]
+}
