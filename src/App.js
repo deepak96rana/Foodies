@@ -34,14 +34,14 @@ import Dashboard from "./components/admin/Dashboard";
 import Users from "./components/admin/Users";
 import Orders from "./components/admin/Orders";
 import About from "./components/About/About";
-import NotFound from "./components/layout/NotFound";
+//import NotFound from "./components/layout/NotFound";
 
 function App() {
   return (
     <BrowserRouter>
       <Header isAuthenticated={true}/>
       <Routes>
-        <Route path="/Foodies" element={<Home/>}/>
+        <Route path="/" element={<Home/>}/>
         <Route path="/contact" element={<Contact/>}/>
         <Route path="/cart" element={<Cart/>}/>
         <Route path="/shipping" element={<Shipping/>}/>
@@ -58,7 +58,7 @@ function App() {
 
 
 
-        <Route path="*" element={<NotFound/>}/>
+        {/* <Route path="*" element={<NotFound/>}/> */}
       </Routes>
 
       <Footer/>
